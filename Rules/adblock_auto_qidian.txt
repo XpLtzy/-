@@ -1,7 +1,3 @@
-[Adblock Plus 2.0]
-! Title: qidian web address
-! Version: 2026-07-06
-
 m.qidian.com##._searchPopular_r69w2_547
 m.qidian.com##._normalDownload_1hi3e_193.auto-tr
 m.qidian.com##._homeContentWrap_oh53r_204 > .auto-tr
