@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 我的规则手机版
+! Title: qidian web address
 ! Version: 2026-07-06
 
 !==================================================
