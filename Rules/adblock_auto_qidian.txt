@@ -37,3 +37,4 @@ m.qidian.com##.text-center.w-36px.auto-tr
 m.qidian.com##button.mr-24px.item.w-.p-0.items-center.flex-col.inline-flex > .h-.w-full.text-24px.justify-center.items-center.flex.text-s-gray-700.rounded-8px.bg-s-bw-white
 m.qidian.com##a._navItem_oh53r_602.auto-tr.auto-click-tr:nth-of-type(3)
 m.qidian.com##a._navItem_oh53r_602.auto-tr.auto-click-tr:nth-of-type(4)
+m.qidian.com##._openApp_yieg2_396.auto-tr
