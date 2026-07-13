@@ -25,3 +25,4 @@ m.qidian.com##._openApp_sm6ke_9.auto-tr
 ||imgservices-1252317822.image.myqcloud.com/coco/s09192022/8b1fdbb9.i5ho2p.jpg$image
 m.qidian.com##a._navItem_8dj34_418.auto-tr.auto-click-tr:nth-of-type(3)
 m.qidian.com##a._navItem_8dj34_418.auto-tr.auto-click-tr:nth-of-type(4)
+m.qidian.com##._openApp_11n1g_307.auto-tr
